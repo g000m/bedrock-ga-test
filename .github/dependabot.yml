@@ -5,6 +5,6 @@ updates:
   schedule:
     interval: daily
     time: "08:00"
-    timezone: US/Central
+    timezone: US/Pacific
   open-pull-requests-limit: 10
   versioning-strategy: increase
