@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "1b3e5e5288ffd0d3a2bf5d23b910d0d8",
+    "content-hash": "5eab66d4b50de9cd8d4993114fa8d2e4",
     "packages": [
         {
             "name": "composer/installers",
@@ -1091,15 +1091,15 @@
         },
         {
             "name": "wpackagist-plugin/wp-rest-api-log",
-            "version": "1.6.8",
+            "version": "1.1.1",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/wp-rest-api-log/",
-                "reference": "tags/1.6.8"
+                "reference": "tags/1.1.1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/wp-rest-api-log.1.6.8.zip"
+                "url": "https://downloads.wordpress.org/plugin/wp-rest-api-log.1.1.1.zip"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
