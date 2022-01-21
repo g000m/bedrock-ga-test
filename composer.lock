@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "a37959e12a3f963d7d1f56f4cd1e6b0a",
+    "content-hash": "2bb5dd515effde3a894a4f97a115122e",
     "packages": [
         {
             "name": "composer/installers",
@@ -1109,15 +1109,15 @@
         },
         {
             "name": "wpackagist-plugin/w3-total-cache",
-            "version": "2.0.0",
+            "version": "2.2.1",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/w3-total-cache/",
-                "reference": "tags/2.0.0"
+                "reference": "tags/2.2.1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/w3-total-cache.2.0.0.zip"
+                "url": "https://downloads.wordpress.org/plugin/w3-total-cache.2.2.1.zip"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
@@ -1655,5 +1655,5 @@
         "php": ">=7.4"
     },
     "platform-dev": [],
-    "plugin-api-version": "2.1.0"
+    "plugin-api-version": "2.2.0"
 }
