@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "a37959e12a3f963d7d1f56f4cd1e6b0a",
+    "content-hash": "c7a10a04eef5a19519c8a639333baf2c",
     "packages": [
         {
             "name": "composer/installers",
@@ -473,22 +473,22 @@
         },
         {
             "name": "roots/wordpress",
-            "version": "5.8.3",
+            "version": "5.9.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/WordPress/WordPress.git",
-                "reference": "5.8.3"
+                "reference": "5.9.2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/WordPress/WordPress/zipball/refs/tags/5.8.3"
+                "url": "https://api.github.com/repos/WordPress/WordPress/zipball/refs/tags/5.9.2"
             },
             "require": {
                 "php": ">=5.3.2",
                 "roots/wordpress-core-installer": ">=1.0.0"
             },
             "provide": {
-                "wordpress/core-implementation": "5.8.3"
+                "wordpress/core-implementation": "5.9.2"
             },
             "type": "wordpress-core",
             "notification-url": "https://packagist.org/downloads/",
@@ -527,7 +527,7 @@
                     "type": "patreon"
                 }
             ],
-            "time": "2022-01-06T19:19:24+00:00"
+            "time": "2022-03-11T00:36:42+00:00"
         },
         {
             "name": "roots/wordpress-core-installer",
@@ -1655,5 +1655,5 @@
         "php": ">=7.4"
     },
     "platform-dev": [],
-    "plugin-api-version": "2.1.0"
+    "plugin-api-version": "2.2.0"
 }
