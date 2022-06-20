@@ -47,7 +47,7 @@
     "wpackagist-plugin/w3-total-cache": "^2.0"
   },
   "require-dev": {
-    "squizlabs/php_codesniffer": "^3.6.0",
+    "squizlabs/php_codesniffer": "^3.7.1",
     "roave/security-advisories": "dev-latest"
   },
   "config": {
